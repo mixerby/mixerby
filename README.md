@@ -9,4 +9,4 @@ Constantly exploring new tools and techniques to craft efficient, secure, and sc
 
 ## Connect with me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mixerby?style=social)](https://twitter.com/notsmartmoney)
+[![Twitter Follow](https://img.shields.io/twitter/follow/notsmartmoney?style=social)](https://twitter.com/notsmartmoney)
